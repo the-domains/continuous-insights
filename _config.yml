@@ -1,0 +1,14 @@
+layout_spectrum: 0.4265735119115561
+typography_spectrum: 0.9836115466896445
+color:
+  brandStrength: 0.36768411891534925
+  lightness: 0.46493597282096744
+  saturation: 0.8846709334757179
+  rhythmicContrast: 0.526311696972698
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Continuous Insights
